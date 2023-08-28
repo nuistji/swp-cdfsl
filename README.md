@@ -1,5 +1,5 @@
 # Soft Weight Pruning for Cross-Domain Few-Shot Learning with Unlabeled Target Data
-The code is revised on the basic of the code release of  (https://github.com/sungnyun/understanding-cdfsl).
+The code is revised on the basic of the code release of https://github.com/sungnyun/understanding-cdfsl.
 
 1. Pretrain the model using the source dataset:  \
   python ./pretrain_new.py --ls --source_dataset miniImageNet  --backbone resnet10  --model base --tag default
