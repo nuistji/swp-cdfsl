@@ -1,9 +1,9 @@
 T_max 1000
 SimCLR
-CropDisease:
-EuroSAT
-ISIC
-ChestX
+CropDisease: pr:0.2 fre: 20 lambda: 1e-4
+EuroSAT: pr: 0.3 fre: 50 lambda: 1e-5
+ISIC: pr: 0.4 fre 100 lambda: 1e-4
+ChestX: pr: 0.3 fre: 10 lambda: 1e-2
 
 BYOL
 CropDisease:
