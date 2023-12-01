@@ -1,0 +1,18 @@
+T_max 1000
+SimCLR
+CropDisease:
+EuroSAT
+ISIC
+ChestX
+
+BYOL
+CropDisease:
+EuroSAT
+ISIC
+ChestX
+
+SimSiam
+CropDisease:
+EuroSAT
+ISIC
+ChestX
